@@ -1,0 +1,1 @@
+Open the provided FASTA files and review their formatting. I have intentionally introduced errors into each file. Your task is to carefully examine the files, identify the formatting issues, and describe the specific problem present in each one
